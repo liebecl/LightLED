@@ -1,5 +1,5 @@
-include <stdio.h>
-include <wiringPi.h>
+#include <stdio.h>
+#include <wiringPi.h>
 
 #define PIN_0 0
 #define DL_500MS 500
